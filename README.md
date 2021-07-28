@@ -1,2 +1,2 @@
 # HGP-MOE
-Hierarchical Gaussian Processes and Mixtures ofExperts in Predicting COVID Patient Trajectories
+Hierarchical Gaussian Processes and Mixtures of Experts to Model COVID-19 Patient Trajectories
